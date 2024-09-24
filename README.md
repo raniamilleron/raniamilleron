@@ -16,11 +16,6 @@
 <h2>Videos:</h2>
 - [Pathogen Genomic Epidemiology Overview](https://vimeo.com/817787438)
 
-<h2>🤳 Connect with me:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/raniamilleron/">LinkedIn</a> | 
-  <a href="https://www.youtube.com/@raniamilleroncruz359">YouTube</a>
-</p>
 
 <!--
 **milleroncruz/milleroncruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
