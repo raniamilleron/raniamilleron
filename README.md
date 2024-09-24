@@ -8,7 +8,7 @@
 
 - <b>Pathogen Genomics Analysis</b>
   - [Real-World Genomic Epidemiology Project](https://github.com/milleroncruz/ProjectAnalysis)
-- <b>Shiny App Development</b>
+- <b>Genomic Data Vis</b>
   - [Exploring Genomic Data with Shiny](https://github.com/milleroncruz/Portfolio)
 - <b>Bash Code Review</b>
   - [Bash Code Review](https://github.com/milleroncruz/CodeReview)
