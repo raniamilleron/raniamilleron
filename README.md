@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rania!</h1>
+<h1>Greetings!</h1>
 <p>Focused on Pathogen Genomics in Public Health</p>
 <p>
   <a href="https://www.linkedin.com/in/raniamilleron/" target="_blank">Epidemiologist, SM and Biomedical Scientist, PhD</a>
