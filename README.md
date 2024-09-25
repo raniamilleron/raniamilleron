@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/raniamilleron/" target="_blank">Epidemiologist, SM and Biomedical Scientist, PhD</a>
 </p>
 
-<h2>Bioinformatics Projects:</h2>
+<h2>Projects:</h2>
 
 <ul>
   <li><b>Pathogen Genomics Analysis:</b> <a href="https://github.com/milleroncruz/ProjectAnalysis">Real-World Genomic Epidemiology Project</a></li>
