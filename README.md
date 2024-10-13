@@ -1,16 +1,13 @@
-## Hi there 👋
+# Greetings, I'm Rania Milleron 👋
 
-<!--
-**raniamilleron/raniamilleron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on Pathogen Genomics in Public Health.
 
-Here are some ideas to get you started:
+Epidemiologist, SM, and Biomedical Scientist, PhD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+## About Me
+- 🧬 Bioinformatician interested in pathogen genomics and data science.
+- 🎓 PhD in Biomedical Science
+- 💼 Open to collaborations in bioinformatics and public health projects.
+- 🌱 Currently learning Bash and R for genomics analysis.
