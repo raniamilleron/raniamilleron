@@ -1,4 +1,4 @@
-# Greetings, I'm Rania Milleron!
+# Greetings!
 Welcome to my GitHub profile!
 
 ## About Me
