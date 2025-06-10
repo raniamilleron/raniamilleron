@@ -2,7 +2,7 @@
 
 Thank you for visiting my GitHub profile.
 
-I bring a background in biomedical science and infectious disease epidemiology, with growing technical fluency in computational tools used to interpret and translate genomic data into real-world insights. My work bridges scientific analysis and strategic decision-making in public health and diagnostics—supporting Medical Affairs, Scientific Affairs, and Global Health initiatives.
+I bring a background in biomedical science and infectious disease epidemiology, with growing technical fluency in computational tools used to interpret and translate genomic data into real-world insights. My work bridges scientific analysis and strategic decision-making in public health and diagnostics, supporting initiatives in Medical Affairs, Scientific Affairs, and Global Health.
 
 ## About Me
 - 🌍 Strategically focused on integrating pathogen genomics and data interpretation to support regulatory, clinical, and population-level health decisions.
