@@ -11,8 +11,6 @@ I bring a background in biomedical science and infectious disease epidemiology, 
 - 🔧 Applying **Bash**, **R**, **Nextstrain**, and **Microreact** to build foundational tools and explore real-world applications of genomics in public health and diagnostics.  
 
 ## Current Projects
-> 📌 *Note: This GitHub portfolio is a work in progress. I’m documenting select projects that reflect my focus on applied genomics, scientific communication, and strategic impact.*
-
 - **[genomic-workflows-strategy](https://github.com/raniamilleron/genomic-workflows-strategy)** – Nextflow-based workflows for genomic data processing; demonstrates pipeline literacy and workflow communication.  
 - **[data-visualization](https://github.com/raniamilleron/data-visualization)** – R and Shiny projects for visualizing genomic and public health datasets.  
 - **[sequence-data-tools](https://github.com/raniamilleron/sequence-data-tools)** – Bash scripts for sequence data utilities (e.g., GC content, reverse complement).  
